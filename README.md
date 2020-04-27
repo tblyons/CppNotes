@@ -3,6 +3,8 @@
 ### Best Practices
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [Jason Turner's C++ Best Practices](https://github.com/lefticus/cppbestpractices)
+### Interesting
+* [You Don't Need Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)
 ### Refactoring
 * [Refactoring for testability in C++](https://github.com/platisd/refactoring-for-testability-cpp)
 ## References
