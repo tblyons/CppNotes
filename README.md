@@ -1,5 +1,7 @@
 # Resources
 ## Concepts
+### Best Practices
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 ### Refactoring
 * [Refactoring for testability in C++](https://github.com/platisd/refactoring-for-testability-cpp)
 ## Tools
