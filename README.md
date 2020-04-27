@@ -2,6 +2,7 @@
 ## Concepts
 ### Best Practices
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+* [Jason Turner's C++ Best Practices](https://github.com/lefticus/cppbestpractices)
 ### Refactoring
 * [Refactoring for testability in C++](https://github.com/platisd/refactoring-for-testability-cpp)
 ## Tools
