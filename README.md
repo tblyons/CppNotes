@@ -18,3 +18,5 @@
 ### Project Templates
 * [Jason Turner's C++ Starter Project](https://github.com/lefticus/cpp_starter_project)
 * [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
+### Test Frameworks
+* [doctest](https://github.com/onqtam/doctest)
