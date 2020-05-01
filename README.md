@@ -9,6 +9,7 @@
 * [Refactoring for testability in C++](https://github.com/platisd/refactoring-for-testability-cpp)
 ## References
 * [cppreference](https://en.cppreference.com/w/)
+* [C++ Patterns](https://cpppatterns.com/)
 ## Tools
 * [Include-What-You-Use](https://include-what-you-use.org/)
 * [Autotidy](https://github.com/sasq64/autotidy)
