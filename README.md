@@ -14,6 +14,7 @@
 * [Include-What-You-Use](https://include-what-you-use.org/)
 * [Autotidy](https://github.com/sasq64/autotidy)
 ### CMake
+* [Awesome CMake](https://github.com/onqtam/awesome-cmake)
 * [It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [CMake Examples](https://github.com/ttroy50/cmake-examples)
