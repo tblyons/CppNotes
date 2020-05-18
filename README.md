@@ -8,6 +8,7 @@
 ### Refactoring
 * [Refactoring for testability in C++](https://github.com/platisd/refactoring-for-testability-cpp)
 ## References
+* [Awesome C++](http://fffaraz.github.io/awesome-cpp/)
 * [cppreference](https://en.cppreference.com/w/)
 * [C++ Patterns](https://cpppatterns.com/)
 ## Tools
