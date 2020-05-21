@@ -21,6 +21,11 @@
 * [CMake Examples](https://github.com/ttroy50/cmake-examples)
 ### Databases
 * [SQLpp11](https://github.com/rbock/sqlpp11)
+### General Libraries
+* [Abseil](https://abseil.io/): Created at Google
+* [Boost](https://www.boost.org/)
+* [Folly](https://github.com/facebook/folly): Created at Facebook
+* [GSL](https://github.com/microsoft/GSL) : Microsoft's implementation of the Guideline Support Library suggested by the [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 ### Project Templates
 * [Jason Turner's C++ Starter Project](https://github.com/lefticus/cpp_starter_project)
 * [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
