@@ -14,6 +14,8 @@
 ## Tools
 * [Include-What-You-Use](https://include-what-you-use.org/)
 * [Autotidy](https://github.com/sasq64/autotidy)
+* [Compiler Explorer](https://godbolt.org/)
+* [Quick Bench](http://quick-bench.com/)
 ### CMake
 * [Awesome CMake](https://github.com/onqtam/awesome-cmake)
 * [It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
