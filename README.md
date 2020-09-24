@@ -6,6 +6,7 @@
 ### Interesting
 * [You Don't Need Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)
 ### Refactoring
+* [The Mikado Method](https://www.davidtanzer.net/david's%20blog/legacy_code/2018/05/21/legacy-code-mikado-method.html)
 * [Refactoring for testability in C++](https://github.com/platisd/refactoring-for-testability-cpp)
 ## References
 * [Awesome C++](http://fffaraz.github.io/awesome-cpp/)
